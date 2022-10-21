@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jokerrou.ugreennastemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jokerrou.ugreennastemplate.MyBundle
 
 class MyApplicationService {
 
